@@ -67,7 +67,7 @@ Read about each person. The text is in Uzbek (with English translation). Use the
 
 ### 1. Maryam
 
-![Maryam](./images/maryam.png)
+![Maryam](./images/maryam.png){ width=50% }
 
 **Uzbek:**
 > Maryam har doim quvnoq va kuchli. U erta uyg'onishni yaxshi ko'radi. U tashqarida bo'lishni juda yoqtiradi. Maryam sovuq havoni yaxshi ko'radi. U sportni juda yoqtiradi va ko'pincha sport bilan shug'ullanadi. U televizor ko'rishni yoqtirmaydi. U musiqa eshitishni yaxshi ko'radi va ko'pincha harakatda bo'ladi.
@@ -90,7 +90,7 @@ Read about each person. The text is in Uzbek (with English translation). Use the
 
 ### 2. Timur
 
-![Timur](./images/timur.png)
+![Timur](./images/timur.png){ width=50% }
 
 **Uzbek:**
 > Timur tinch va sokin bola. U kafeda o'tirishni yaxshi ko'radi. U yozishni va rasm chizishni juda yoqtiradi. Timur choy ichishni va shokolad yeyishni yaxshi ko'radi. U sportni yoqtirmaydi. U ko'plab odamlar bo'lgan joylarni yoqtirmaydi. U yomg'irli kunlarni yaxshi ko'radi va tinch joylarni yoqtiradi.
@@ -113,7 +113,7 @@ Read about each person. The text is in Uzbek (with English translation). Use the
 
 ### 3. Anna
 
-![Anna](./images/anna.png)
+![Anna](./images/anna.png){ width=50% }
 
 **Uzbek:**
 > Anna qiziqarli va faol qiz. U yangi taomlarni tatib ko'rishni juda yaxshi ko'radi. U sayohat qilishni va suratga olishni yoqtiradi. Anna musiqa eshitishni yaxshi ko'radi va do'stlari bilan uchrashishni yoqtiradi. U choy ichishni yoqtirmaydi va televizor ko'rishni yoqtirmaydi. U har kuni bir xil ishlarni qilishni yoqtirmaydi.
