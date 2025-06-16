@@ -37,25 +37,73 @@ Welcome to your Uzbek lesson! All the information you need for this lesson is in
 ---
 
 ## Vocabulary to Know (Bilish kerak bo'lgan so'zlar):
+
+### Essential Verbs:
+- **yaxshi ko'rmoq** — to like, to love
+- **yoqtirmoq** — to like
+- **uyg'onmoq** — to wake up
+- **eshitmoq** — to listen, to hear
+- **ichmoq** — to drink
+- **yemoq** — to eat
+- **uchrashmoq** — to meet
+
+### Activities & Actions:
 - **chang'i uchmoq** — to ski
+- **suzmoq** — to swim
+- **raqsga tushmoq** — to dance
 - **yozmoq** — to write
 - **rasm chizmoq** — to draw
 - **suratga olmoq** — to take a photo
+- **qo'shiq aytmoq** — to sing
+- **sayohat qilmoq** — to travel
+- **sport bilan shug'ullanmoq** — to do sports
+- **velosiped haydamoq** — to ride a bike
+- **galereyaga bormoq** — to go to galleries
+- **film ko'rmoq** — to watch movies
+- **televizor ko'rmoq** — to watch TV
+
+### Describing People & Things:
+- **quvnoq** — cheerful, happy
+- **kuchli** — strong
+- **tinch** — calm, peaceful
+- **sokin** — quiet
+- **qiziqarli** — interesting
+- **faol** — active
+- **juda** — very, really
+- **har doim** — always
+- **ko'pincha** — often
+- **erta** — early
+
+### Places & Things:
+- **tashqarida** — outside
+- **kafeda** — in a cafe
 - **galereya** — gallery
 - **do'st** — friend
+- **havo** — weather
+- **mamlakat** — country
+- **kun** — day
+- **joy** — place
+- **choy** — tea
+- **shokolad** — chocolate
+- **musiqa** — music
+- **futbol** — football
+- **taom** — food
+
+### Descriptive Words:
 - **bir xil** — the same
 - **yangi** — new
-- **tatib ko'rmoq** — to try (taste)
-- **shirin** — sweet
 - **issiq** — hot
 - **sovuq** — cold
-- **mamlakat** — country
-- **velosiped haydamoq** — to ride a bike
-- **ko'plab odamlar** — many people
 - **yomg'irli** — rainy
-- **sayohat qilmoq** — to travel
-- **yaxshi ko'rmoq** — to like, to love
-- **yoqtirmoq** — to like
+- **ko'plab** — many, a lot of
+- **tinch** — quiet, peaceful
+
+### Useful Phrases:
+- **tatib ko'rmoq** — to try (taste)
+- **do'stlar bilan uchrashmoq** — to meet with friends
+- **uyda o'tirmoq** — to sit at home
+- **harakatda bo'lmoq** — to be active
+- **har kuni** — every day
 
 ---
 
